@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd=list_the_path_of_the_working_directory
+pwd
