@@ -1,0 +1,2 @@
+#!/bin/bash
+ls=list_the_files_in_the_working_directory
