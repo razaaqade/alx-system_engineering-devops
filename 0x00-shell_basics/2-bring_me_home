@@ -1,2 +1,2 @@
 #!/bin/bash
-cd-$HOME=changes_the_working_directory_to_home
+cd=changes_the_working_directory_to_home
